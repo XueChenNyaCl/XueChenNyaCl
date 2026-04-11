@@ -42,7 +42,7 @@
       "component": "FriendsWindow",
       "type": "large",
       "icon": "link",
-      "enabled": false,
+      "enabled": true,
       "order": 5
     },
     {

@@ -43,6 +43,21 @@
           "enabled": true
         }
       ]
+    },
+    {
+      "id": "friend3",
+      "name": "设计师小明",
+      "description": "UI/UX 设计师",
+      "avatar": "icons/ani/loadinghead.jpg",
+      "enabled": true,
+      "socialLinks": [
+        {
+          "id": "dribbble",
+          "name": "Dribbble",
+          "url": "https://dribbble.com",
+          "enabled": true
+        }
+      ]
     }
   ]
 }
