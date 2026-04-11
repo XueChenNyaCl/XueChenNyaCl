@@ -1,0 +1,8 @@
+!/gitignore
+Blog
+example
+Docs
+tager
+.trae
+.sourcery.yaml
+.github\workflows

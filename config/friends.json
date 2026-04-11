@@ -1,0 +1,48 @@
+{
+  "friends": [
+    {
+      "id": "friend1",
+      "name": "示例好友",
+      "description": "一个热爱技术的朋友",
+      "avatar": "icons/ani/loadinghead.jpg",
+      "website": "https://example.com",
+      "enabled": true,
+      "socialLinks": [
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "enabled": true
+        },
+        {
+          "id": "email",
+          "name": "Email",
+          "url": "mailto:friend@example.com",
+          "enabled": true
+        },
+        {
+          "id": "x",
+          "name": "X",
+          "url": "https://x.com",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "friend2",
+      "name": "技术博主",
+      "description": "分享前端开发经验",
+      "avatar": "icons/ani/loadinghead.jpg",
+      "website": "https://example2.com",
+      "enabled": true,
+      "socialLinks": [
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}

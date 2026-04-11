@@ -1,0 +1,40 @@
+{
+  "errorPages": {
+    "404": {
+      "image": "icons/ani/cry.png",
+      "text": "404",
+      "subtext": "页面走丢了喵..."
+    },
+    "noNetwork": {
+      "image": "icons/ani/angry.png",
+      "text": "网络错误",
+      "subtext": "网络连接失败，请检查网络后重试"
+    },
+    "mobileReject": {
+      "image": "icons/ani/happy.png",
+      "text": "当前不支持移动端",
+      "subtext": "请使用电脑浏览网站喵..."
+    }
+  },
+  "loading": {
+    "fullscreen": {
+      "image": "icons/ani/loading.apng",
+      "text": "loading……",
+      "size": 120
+    },
+    "window": {
+      "image": "icons/ani/loading.apng",
+      "text": "加载中...",
+      "size": 64
+    }
+  },
+  "avatar": {
+    "default": "icons/ani/loadinghead.jpg",
+    "loading": "icons/ani/loadinghead.png"
+  },
+  "background": {
+    "images": ["icons/background/020.png", "icons/background/031.png"],
+    "interval": 10000,
+    "transitionDuration": 2000
+  }
+}

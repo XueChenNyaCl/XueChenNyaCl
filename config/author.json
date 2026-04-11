@@ -1,0 +1,30 @@
+{
+  "name": "NyaCl",
+  "bio": "喵喵喵喵喵",
+  "email": "s1949166012@gmail.com",
+  "github": "https://github.com/XueChenNyaCl",
+  "avatar": "images/avatar.png",
+  "contacts": [
+    {
+      "id": "github",
+      "name": "GitHub",
+      "value": "https://github.com/XueChenNyaCl",
+      "action": "open",
+      "enabled": true
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "s1949166012@gmail.com",
+      "action": "copy",
+      "enabled": true
+    },
+    {
+      "id": "x",
+      "name": "X",
+      "value": "https://x.com/XueChenNyaCl",
+      "action": "open",
+      "enabled": true
+    }
+  ]
+}
