@@ -33,7 +33,13 @@
     "loading": "icons/ani/loadinghead.png"
   },
   "background": {
-    "images": ["icons/background/020.png", "icons/background/031.png"],
+    "images": [
+      "icons/background/020.png",
+      "icons/background/229.png",
+      "icons/background/300.jpg",
+      "icons/background/301.jpg",
+      "icons/background/302.jpg"
+    ],
     "interval": 10000,
     "transitionDuration": 2000
   }
