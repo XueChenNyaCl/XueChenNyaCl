@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-04-11T08:10:00.519Z",
+  "generatedAt": "2026-04-11T08:34:11.895Z",
   "files": [
     "about/about_en.md",
     "about/about_zh.md",
+    "manifest.json",
     "notice/welcome_en.md",
     "notice/welcome_zh.md",
     "zh-CN/posts/2026/hello-world.md"
