@@ -33,12 +33,40 @@
     "loading": "icons/ani/loadinghead.png"
   },
   "background": {
-    "images": [
-      "icons/background/020.png",
-      "icons/background/229.png",
-      "icons/background/300.jpg",
-      "icons/background/301.jpg",
-      "icons/background/302.jpg"
+    "groups": [
+      {
+        "id": "default",
+        "name": "默认",
+        "nameEn": "Default",
+        "images": [
+          "icons/background/zhou01.jpg",
+          "icons/background/genshin01.jpg",
+          "icons/background/ba01.jpg"
+        ]
+      },
+      {
+        "id": "neko",
+        "name": "Neko",
+        "nameEn": "Neko",
+        "images": [
+          "icons/background/neko01.png",
+          "icons/background/neko02.png",
+          "icons/background/neko03.png",
+          "icons/background/neko04.png"
+        ]
+      },
+      {
+        "id": "p-punk",
+        "name": "后朋克",
+        "nameEn": "Post Punk",
+        "images": [
+          "icons/background/ppunk01.JPG",
+          "icons/background/ppunk02.JPG",
+          "icons/background/ppunk03.PNG",
+          "icons/background/ppunk04.JPG",
+          "icons/background/ppunk05.JPG"
+        ]
+      }
     ],
     "interval": 10000,
     "transitionDuration": 2000

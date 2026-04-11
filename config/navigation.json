@@ -1,6 +1,15 @@
 {
   "menuItems": [
     {
+      "id": "music",
+      "title": "音乐",
+      "component": "MusicPlayer",
+      "type": "small",
+      "icon": "music",
+      "enabled": true,
+      "order": 0
+    },
+    {
       "id": "time",
       "title": "时间",
       "component": "TimeWindow",

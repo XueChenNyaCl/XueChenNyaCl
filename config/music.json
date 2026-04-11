@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "playlists": [
+    {
+      "id": "ppunk",
+      "name": "后朋克",
+      "url": "//music.163.com/outchain/player?type=0&id=17892350382&auto=1&height=90"
+    },
+    {
+      "id": "luotianyi",
+      "name": "洛天依",
+      "url": "//music.163.com/outchain/player?type=0&id=17892274288&auto=1&height=90"
+    },
+    {
+      "id": "pika",
+      "name": "PIKASONIC",
+      "url": "//music.163.com/outchain/player?type=0&id=17892396488&auto=1&height=90"
+    }
+  ]
+}
