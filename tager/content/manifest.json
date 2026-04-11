@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-04-11T05:39:18.339Z",
+  "files": [
+    "about/about_en.md",
+    "about/about_zh.md",
+    "notice/welcome_en.md",
+    "notice/welcome_zh.md",
+    "zh-CN/posts/2026/hello-world.md"
+  ],
+  "posts": [
+    {
+      "locale": "zh-CN",
+      "slug": "hello-world",
+      "path": "zh-CN/posts/2026/hello-world.md"
+    }
+  ],
+  "about": [
+    {
+      "locale": "en-US",
+      "path": "about/about_en.md"
+    },
+    {
+      "locale": "zh-CN",
+      "path": "about/about_zh.md"
+    }
+  ],
+  "notices": [
+    {
+      "slug": "welcome",
+      "locale": "en-US",
+      "path": "notice/welcome_en.md"
+    },
+    {
+      "slug": "welcome",
+      "locale": "zh-CN",
+      "path": "notice/welcome_zh.md"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "menuItems": [
+    {
+      "id": "time",
+      "title": "时间",
+      "component": "TimeWindow",
+      "type": "small",
+      "icon": "clock",
+      "enabled": true,
+      "order": 6
+    },
+    {
+      "id": "posts",
+      "title": "文章",
+      "component": "PostsWindow",
+      "type": "large",
+      "icon": "document",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "about",
+      "title": "关于",
+      "component": "AboutWindow",
+      "type": "large",
+      "icon": "user",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "settings",
+      "title": "设置",
+      "component": "SettingsWindow",
+      "type": "large",
+      "icon": "settings",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "friends",
+      "title": "友链",
+      "component": "FriendsWindow",
+      "type": "large",
+      "icon": "link",
+      "enabled": false,
+      "order": 5
+    },
+    {
+      "id": "notice",
+      "title": "公告",
+      "component": "NoticeWindow",
+      "type": "large",
+      "icon": "notice",
+      "enabled": true,
+      "order": 1
+    }
+  ]
+}

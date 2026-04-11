@@ -1,0 +1,6 @@
+{
+  "pageSize": 10,
+  "maxExcerptLength": 200,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultSort": "date-desc"
+}

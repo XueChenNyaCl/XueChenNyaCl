@@ -1,0 +1,26 @@
+{
+  "title": "关于我",
+  "subtitle": "一个什么都不会的高中生",
+  "contentSource": "inline",
+  "content": "",
+  "contentFile": "",
+  "showContacts": true,
+  "showAvatar": true,
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/XueChenNyaCl",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:s1949166012@gmail.com",
+      "icon": "email"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/XueChen_NyaCl",
+      "icon": "x"
+    }
+  ]
+}

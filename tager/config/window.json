@@ -1,0 +1,14 @@
+{
+  "windowSizes": {
+    "PostsWindow": { "width": 600, "height": 400 },
+    "AboutWindow": { "width": 500, "height": 350 },
+    "FriendsWindow": { "width": 550, "height": 380 },
+    "ProfileNavWindow": { "width": 180, "height": 280 },
+    "TimeWindow": { "width": 360, "height": 120 },
+    "SettingsWindow": { "width": 450, "height": 350 }
+  },
+  "dockSpacing": 20,
+  "followSensitivity": 0.1,
+  "detachThreshold": 50,
+  "summonOffset": { "x": 0, "y": -50 }
+}
