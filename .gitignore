@@ -1,7 +1,8 @@
 Blog
 example
 Docs
-tager
+/tager
 .trae
-.sourcery.yaml
-.github\workflows
+/.sourcery.yaml
+/.claude*
+/.playwright*

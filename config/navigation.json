@@ -1,13 +1,24 @@
 {
   "menuItems": [
     {
+      "id": "music",
+      "title": "音乐",
+      "component": "MusicPlayer",
+      "type": "small",
+      "icon": "music",
+      "enabled": true,
+      "order": 0,
+      "showIn": "tabbar"
+    },
+    {
       "id": "time",
       "title": "时间",
       "component": "TimeWindow",
       "type": "small",
       "icon": "clock",
       "enabled": true,
-      "order": 6
+      "order": 6,
+      "showIn": "tabbar"
     },
     {
       "id": "posts",
@@ -16,7 +27,8 @@
       "type": "large",
       "icon": "document",
       "enabled": true,
-      "order": 2
+      "order": 2,
+      "showIn": "nav"
     },
     {
       "id": "about",
@@ -25,7 +37,8 @@
       "type": "large",
       "icon": "user",
       "enabled": true,
-      "order": 3
+      "order": 3,
+      "showIn": "nav"
     },
     {
       "id": "settings",
@@ -34,7 +47,8 @@
       "type": "large",
       "icon": "settings",
       "enabled": true,
-      "order": 4
+      "order": 4,
+      "showIn": "nav"
     },
     {
       "id": "friends",
@@ -43,7 +57,8 @@
       "type": "large",
       "icon": "link",
       "enabled": false,
-      "order": 5
+      "order": 5,
+      "showIn": "nav"
     },
     {
       "id": "notice",
@@ -52,7 +67,8 @@
       "type": "large",
       "icon": "notice",
       "enabled": true,
-      "order": 1
+      "order": 1,
+      "showIn": "nav"
     }
   ]
 }

@@ -1,18 +1,27 @@
 {
-  "generatedAt": "2026-04-11T11:24:09.984Z",
+  "generatedAt": "2026-04-12T05:22:15.996Z",
   "files": [
     "about/about_en.md",
     "about/about_zh.md",
+    "images/huba/system_theme.png",
+    "images/huba/wuxiandian.PNG",
+    "images/huba/xianzun.PNG",
     "manifest.json",
     "notice/welcome_en.md",
     "notice/welcome_zh.md",
-    "zh-CN/posts/2026/hello-world.md"
+    "zh-CN/posts/2026/hello-world.md",
+    "zh-CN/posts/2026/huba.md"
   ],
   "posts": [
     {
       "locale": "zh-CN",
       "slug": "hello-world",
       "path": "zh-CN/posts/2026/hello-world.md"
+    },
+    {
+      "locale": "zh-CN",
+      "slug": "huba",
+      "path": "zh-CN/posts/2026/huba.md"
     }
   ],
   "about": [
