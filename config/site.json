@@ -1,5 +1,10 @@
 {
   "title": "Blog",
   "description": "Shizuku's Bloggy",
-  "baseUrl": "/"
+  "baseUrl": "/",
+  "weather": {
+    "apiKey": "",
+    "location": "",
+    "enabled": false
+  }
 }

@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-05-04T13:22:48.785Z",
+  "generatedAt": "2026-05-16T13:55:47.498Z",
   "files": [
     "about/about_en.md",
     "about/about_zh.md",
     "images/huba/wuxiandian.PNG",
     "images/huba/xianzun.PNG",
     "manifest.json",
+    "maxim/default.txt",
+    "maxim/motivation.txt",
+    "maxim/philosophy.txt",
     "notice/welcome_en.md",
     "notice/welcome_zh.md",
     "zh-CN/posts/2026/hello-world.md",
