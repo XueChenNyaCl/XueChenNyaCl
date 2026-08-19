@@ -1,0 +1,1 @@
+function e(){return`/`}function t(t){let n=e();return`${n.endsWith(`/`)?n:`${n}/`}${t.startsWith(`/`)?t.slice(1):t}`}function n(e){return t(`config/${e}`)}function r(e){return t(`content/${e}`)}export{r as n,t as r,n as t};
